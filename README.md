@@ -1,8 +1,8 @@
-# Project 1 CS50
+# Pset 1 CS50Xni
 
 1.  Implementar  <a href="#Hello" class="btn btn-sm btn-default">Hello</a>
 2.  Implementar  <a href="#Mario" class="btn btn-sm btn-default">Mario</a>
-3.  Implementar uno de los siguientes (cualquiera; pero, si resuelves ambos tendrás puntos extras):
+3.  Implementar uno de los siguientes
     -   Implementar  <a href="#Cash" class="btn btn-sm btn-default">Cash</a>
     -   Implementar  <a href="#Credit" class="btn btn-sm btn-default">Credit</a>
 
