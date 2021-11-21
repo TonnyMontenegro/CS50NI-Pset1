@@ -50,7 +50,8 @@ $ ./marioHeight: 3
 Implemente un programa que calcule el número mínimo de monedas requeridas para dar el cambio (o vuelto) al usuario.
 
 ```
-$ ./cashChange owed: 
+$ ./cash
+Change owed: 
 0.414
 ```
 
