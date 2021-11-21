@@ -21,14 +21,16 @@ hello, world
 Crea un programa que muestre por pantalla una media pirámide con la altura especificada, como se muestra a continuación.
 
 ```bash
-$ ./marioHeight: 5    
+$ ./mario
+Height: 5    
     ##
    ###
   ####
  #####
 ######
 
-$ ./marioHeight: 3
+$ ./mario
+Height: 3
     ##
    ###
   ####
