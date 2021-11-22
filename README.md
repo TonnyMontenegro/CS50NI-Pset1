@@ -1,4 +1,4 @@
-# Pset 1 CS50Xni
+# CS50Xni Pset 1: C 
 
 1.  Implementar  <a href="#Hello" class="btn btn-sm btn-default">Hello</a>
 2.  Implementar  <a href="#Mario" class="btn btn-sm btn-default">Mario</a>
